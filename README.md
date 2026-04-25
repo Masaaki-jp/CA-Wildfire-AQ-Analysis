@@ -2,7 +2,7 @@
 
 ## 1. 概要　🇺🇸
 
-![QGIS](QGIS_Analysis_Result)
+![QGIS](QGIS_Analysis_Result.png)
 
 本プロジェクトは、Google Cloud Platform (BigQuery) の公開データセットを活用し、2020年に発生したカリフォルニア史上最大規模の山火事が大気質（PM2.5）に与えた影響を可視化・分析したものです。
 
